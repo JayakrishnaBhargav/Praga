@@ -1,0 +1,6 @@
+{
+  "name": "Praja to Policy – Public Insight and Governance",
+  "description": "An intelligent e-governance platform connecting citizens directly with government authorities, featuring civic issue reporting, automated analysis, direct officer routing, and personalized welfare scheme discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
